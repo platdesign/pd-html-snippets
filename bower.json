@@ -1,0 +1,17 @@
+{
+  "name": "pd-html-snippets",
+  "version": "0.0.1",
+  "homepage": "https://github.com/platdesign/pd-html-snippets",
+  "authors": [
+    "platdesign"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ]
+}
